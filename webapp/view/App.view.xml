@@ -1,0 +1,13 @@
+<mvc:View controllerName="zgr.gitzgr_git_test.controller.App" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="{i18n>title}">
+				<content>
+					<Button text="Hello World" press="onButtonPress"/>
+					<Text id="idText" text="Huhu"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>
