@@ -4,8 +4,9 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-					<Button text="Hello World" press="onButtonPress"/>
-					<Text id="idText" text="Huhu"/>
+					<Button text="Hello World" press="onButtonPress1"/>
+					<Button text="Reset" press="onButtonPress2"/>
+					<Text id="idText" text=""/>
 				</content>
 			</Page>
 		</pages>
